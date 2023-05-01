@@ -2,6 +2,9 @@
 Three types of public data (national population, police station, crime by police station) were related and programmed with python Qt.
 
 ![image](https://user-images.githubusercontent.com/115389450/235417959-6ca4078e-66fd-40dc-841c-d224be4b8b88.png)
+![image](https://user-images.githubusercontent.com/115389450/235419313-38174023-9c01-4e1e-9ef7-52c457eb0967.png)
+![image](https://user-images.githubusercontent.com/115389450/235419346-0ebc54f6-431c-4e90-b767-84e40eeaa26d.png)
+
 ![image](https://user-images.githubusercontent.com/115389450/235418672-16b0dff1-de38-45d4-9c4a-3f5cf06d7ec7.png)
 ![image](https://user-images.githubusercontent.com/115389450/235418693-bc6276c3-1a45-4d5a-8371-33607acf6d24.png)
 ![image](https://user-images.githubusercontent.com/115389450/235418731-9494d5ad-b094-413b-aec7-24cc6f3a7482.png)
